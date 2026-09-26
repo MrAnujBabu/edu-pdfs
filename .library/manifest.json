@@ -8,7 +8,8 @@
   "hidden": [],
   "aliases": {
     "E2E-test-44251/e2e.pdf": "E2E-test-44251/e2e.html.pdf",
-    "E2E-test-44333/e2e.pdf": "E2E-test-44333/e2e.html.pdf"
+    "E2E-test-44333/e2e.pdf": "E2E-test-44333/e2e-renamed.pdf.pdf",
+    "E2E-test-44333/e2e.html.pdf": "E2E-test-44333/e2e-renamed.pdf.pdf"
   },
-  "updatedAt": "2026-09-26T17:39:21.598Z"
+  "updatedAt": "2026-09-26T17:39:28.316Z"
 }
