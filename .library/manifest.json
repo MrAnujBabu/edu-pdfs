@@ -3,7 +3,11 @@
   "settings": {
     "linkStyle": "cdn"
   },
-  "order": {},
+  "order": {
+    "Test/app-check": [
+      "sample-note.pdf"
+    ]
+  },
   "labels": {
     "Test/app-check/sample-note.pdf": {
       "title": "Sample",
@@ -14,5 +18,5 @@
   "aliases": {
     "Test/app-check/Sample Note.pdf": "Test/app-check/sample-note.pdf"
   },
-  "updatedAt": "2026-09-26T12:16:04.127Z"
+  "updatedAt": "2026-09-26T12:16:07.561Z"
 }
