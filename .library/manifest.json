@@ -1,12 +1,13 @@
 {
   "version": 1,
   "settings": {
-    "linkStyle": "pages"
+    "linkStyle": "pages",
+    "appUrl": "https://github-storages-cdn.vercel.app"
   },
   "order": {},
   "labels": {},
   "hidden": [],
   "aliases": {},
   "ownerTokenEnc": "dRVgucEHhS0RnSyC.lamwl_5PLxprLudJXqZDYQ.fTjNPvfA6geIkc5xjgL1eWCGw1G4G_Y--GtbdQicRnFEvJ2Gq6KvlQ",
-  "updatedAt": "2026-09-27T02:43:18.795Z"
+  "updatedAt": "2026-09-27T02:44:55.351Z"
 }
